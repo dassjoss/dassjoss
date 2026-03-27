@@ -1,40 +1,28 @@
-# ¡Hola! Soy José David (dassjoss) 👋🇨🇴
+# ¡Hola! 👋 Soy Jose 🌌💻
 
-<img align="right" width="250" src="https://github.com/dassjoss/dassjoss/blob/main/tu-foto-o-gif.gif" alt="José David" />
+Soy estudiante de último semestre de **Física en la Universidad de Antioquia**. Me apasiona el lugar donde la ciencia fundamental utiliza el desarrollo de la computación actual para encontrar informción de los sistemas que no se pueden encontrar de forma directa; como ecuaciones sin solución análitica, o sistemas cuya dinamica está dispuesta puede ser aproximada con perturbaciones.
 
-**Físico teórico y apasionado por la simulación computacional** desde Colombia.
+Algo que me caracteriza es que **no solo escribo código, también explico la ciencia detrás de él**. Por eso, en muchos de mis repositorios encontrarás un apartado teórico (una especie de *paper* informal) donde detallo la física, la matemática y el análisis de los resultados.
 
-Me encanta resolver problemas de física usando código: desde modelos de Ising hasta ecuaciones diferenciales no lineales como Sine-Gordon. Básicamente, me gusta ver cómo se comportan los sistemas complejos cuando los meto en la computadora.
+### 🔭 ¿Qué he estado haciendo?
+He trabajado en proyectos que van desde el mundo cuántico hasta los mercados financieros. Lo más destacado:
 
-### ¿Qué estoy haciendo ahora? 🚀
-- Simulaciones numéricas de sistemas físicos (mecánica cuántica perturbativa, mecánica teórica avanzada, modelos de espín, etc.)
-- Jupyter Notebooks llenos de visualizaciones y experimentos
-- Aprendiendo más sobre computación científica y visualización de datos
+*   ⚡ **HPC & Optimización:** Uso de **CUDA** y técnicas para paralelizar algoritmos, acelerar cálculos complejos y exprimir al máximo el hardware.
+*   🛰️ **Satélites e IA:** Clasificación inteligente de cultivos procesando datos e imágenes multiespectrales del satélite **Sentinel-2** utilizando modelos de machine learning.
+*   ⚛️ **Física Cuántica y No Lineal:** Implementación de métodos numéricos para solucionar las ecuaciones de *Sine-Gordon* y desarrollo de soluciones especiales para métodos perturbativos en mecánica cuántica además de orbitas planetarias.
+*   📈 **Finanzas Quant & Data Science:** Creación de modelos predictivos y algoritmos de análisis de sentimiento aplicados a divisas y commodities (como el oro). 
 
-### Mis proyectos destacados 🔥
-- **[Ising_Model](https://github.com/dassjoss/Ising_Model)** — Simulación del modelo de Ising en 2D
-- **[SineGordon-NumPeriodicSolver](https://github.com/dassjoss/SineGordon-NumPeriodicSolver)** — Solucionador numérico periódico para la ecuación de Sine-Gordon
-- **[Analysis_on_Perturbative_Methods_in_Quantum_Mechanics](https://github.com/dassjoss/Analysis_on_Perturbative_Methods_in_Quantum_Mechanics)** — Análisis de métodos perturbativos en mecánica cuántica
-- Y varios más sobre mecánica teórica y experimentos con cámaras de vacío
+### 🌱 Actualmente aprendiendo...
+*   🧠 **PINNs (Physics-Informed Neural Networks):** Entrenando redes neuronales que "entiendan" las leyes de la física para llevar las simulaciones a otro nivel.
+*   🤖 Implementación y optimización de **modelos MMLs**.
 
-### Tecnologías que uso habitualmente
-- **Python** + NumPy + SciPy
-- Jupyter Notebook
-- Matplotlib / Seaborn para visualizaciones
-- Un poco de física teórica y métodos numéricos
+### 🛠️ Mi Stack / Caja de herramientas
+Utilizo la herramienta adecuada para cada problema, buscando siempre el mejor rendimiento, paralelización y flexibilidad ):
 
-### ¿Quieres charlar o colaborar?
-¡Me encanta conectar con gente que le guste la física, las simulaciones o la computación científica!
+**Python** 🐍 | **C++** ⚙️ | **Rust** 🦀 | **CUDA** 🟩 | **Bash** 🐧 | **Wolfram Mathematica** 📐
 
-- Abre un issue en cualquiera de mis repos
-- O simplemente mándame un mensaje
+### 📫 ¡Conectemos!.
 
-Si te gustan las simulaciones que se ven chéveres y los modelos que ayudan a entender mejor la naturaleza, estás en el lugar correcto ✨
-
----
-
-**"La simulación es la forma más divertida de entender la física"**
-
-¡Gracias por pasar por aquí! Si te gustó algo, deja una ⭐ en mis repos.
-
-Hecho con ☕ y ecuaciones diferenciales en Medellín/Antioquia.
+[![GitHub](https://img.shields.io/badge/GitHub-dassjoss-black?style=flat&logo=github)](https://github.com/dassjoss)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Tu_Usuario]-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-usuario)
+[![Email](https://img.shields.io/badge/Email-Contáctame-red?style=flat&logo=gmail)](mailto:dasssjosss@gmail.com)
