@@ -1,73 +1,70 @@
-# Hi! 👋 I'm Jose 🌌
+# JOSE 🌌
 
-I am a **Physics undergraduate at Universidad de Antioquia**, with a background and interests primarily focused on **theoretical and computational physics**.
+<p align="center">
+  <b>Physics × Computation</b><br>
+  <i>General Relativity · Quantum Gravity · Constrained Dynamics · Symbolic Computing</i>
+</p>
 
-My main interests lie in **General Relativity and quantum gravity**, particularly in the Hamiltonian formulation of gravity, constrained systems, gauge symmetries, and quantization methods. I am especially interested in understanding how different mathematical formulations of a physical theory can describe the same physical degrees of freedom and underlying structures.
+<p align="center">
+  <img src="assets/spacetime_mesh.svg" alt="Spacetime Metric Curvature" width="100%">
+</p>
 
-An important part of my work involves using **computational tools to study theoretical and mathematical problems** that can be difficult to approach analytically alone. I work with both numerical methods and **symbolic computation**, particularly to automate calculations involving differential geometry, tensor calculus, and General Relativity.
+## 🔬 About Me
 
-Something that characterizes my approach is that **I am not only interested in obtaining a computational result, but also in understanding and documenting the physics and mathematics behind it**. For this reason, many of my projects include theoretical developments, mathematical derivations, methodological analysis, and comparisons with analytical or expected results.
+I am a **Physics undergraduate at Universidad de Antioquia**, focused on theoretical and computational physics.
 
-### 🔭 What do I work on?
+My primary research interests center on **General Relativity and Quantum Gravity**, specifically:
+- **Hamiltonian Formulation of Gravity**: Metric and tetrad/Palatini formulations using the Dirac formalism for constrained systems ($H = N H_0 + N^i H_i \approx 0$).
+- **Gauge Symmetries & Degrees of Freedom**: Understanding how gauge invariants and physical constraints propagate across covariant field theories.
+- **Symbolic & Numerical Tensor Calculus**: Developing computational tools to automate differential geometry, curvature computations, and perturbation theories.
 
-My projects primarily span four areas:
+---
 
-* 🌌 **Theoretical Physics — General Relativity and Gravity:** Study of Hamiltonian formulations of General Relativity, including metric and tetrad/Palatini formulations, using the Dirac formalism for constrained systems. I also work with differential geometry, tensor calculus, gauge symmetries, and physical degrees of freedom.
+<p align="center">
+  <img src="assets/activity_trajectory.svg" alt="Hamiltonian Phase Space Trajectory" width="100%">
+</p>
 
-* ⚛️ **Quantum Mechanics and Mathematical Physics:** Study and comparison of perturbative methods, including Rayleigh–Schrödinger, Brillouin–Wigner, and Dalgarno–Lewis approaches, as well as numerical methods applied to quantum systems and nonlinear differential equations such as the Sine-Gordon equation.
+---
 
-* 💻 **Computational Physics and Symbolic Computation:** Development of tools for automating mathematical and physical calculations using **Mathematica, xAct, Cadabra2, Python, and C++**. My current work includes tools for tensor calculus, differential geometry, and General Relativity.
+## 🛠️ Research Areas & Core Toolkit
 
-* 🤖 **Machine Learning and Data Science:** Experience applying machine learning methods to scientific problems, including crop classification using satellite imagery, predictive modeling, and object detection. I am particularly interested in the intersection between **physics and machine learning**.
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌌 Theoretical & Mathematical Physics</h3>
+      <ul>
+        <li><b>General Relativity:</b> ADM formalism, Palatini action, canonical gravity.</li>
+        <li><b>Quantum Mechanics:</b> Rayleigh–Schrödinger & Brillouin–Wigner perturbation theory.</li>
+        <li><b>Field Theory & Nonlinear PDE:</b> Sine-Gordon, Soliton dynamics, PINNs.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 Computational Physics & Symbolic Computing</h3>
+      <ul>
+        <li><b>Symbolic Engines:</b> <code>Mathematica</code>, <code>xAct</code>, <code>Cadabra2</code>, <code>SageMath</code></li>
+        <li><b>Scientific Computing:</b> <code>Python</code> (NumPy, SciPy, PyTorch), <code>C++</code>, <code>CUDA</code></li>
+        <li><b>Analysis & Systems:</b> <code>Git</code>, <code>Linux</code>, <code>LaTeX</code></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Tools & Technologies
+---
 
-**Physics & Symbolic Computation**
+## 📚 Selected Research Projects
 
-`Mathematica` · `xAct` · `Cadabra2` · `SageMath`
+- **Hamiltonian Formulations of General Relativity**  
+  *Comparative analysis of constraint structures, gauge algebra, and physical degrees of freedom in metric vs tetrad variables.*
+- **TensorToolkit**  
+  *Modular Wolfram Language package for symbolic tensor algebra, curvature tensors, and differential forms.*
+- **Covariant Derivative Expansion Framework (Cadabra2)**  
+  *Python-based framework for index manipulation and covariant expansions in spacetime geometry.*
+- **Perturbative Quantum Mechanics**  
+  *Convergence analysis and truncation behaviors of Rayleigh–Schrödinger and Dalgarno–Lewis expansions.*
 
-**Scientific Computing**
+---
 
-`Python` · `NumPy` · `SciPy` · `Pandas` · `Matplotlib` · `Jupyter` · `C++` · `C` · `CUDA`
-
-**Machine Learning**
-
-`PyTorch` · `TensorFlow` · `Scikit-learn`
-
-**Development & Systems**
-
-`Git` · `GitHub` · `Linux` · `Bash` · `LaTeX`
-
-### 📚 Selected Projects
-
-🌌 **Hamiltonian Formulations of General Relativity**
-Comparative study of the Hamiltonian structure of General Relativity in metric and tetrad/Palatini formulations, with emphasis on constraints, gauge symmetries, and physical degrees of freedom.
-
-📐 **TensorToolkit**
-A modular Wolfram Language toolkit for symbolic tensor calculus, differential geometry, and General Relativity.
-
-∇ **Covariant Derivative Expansion Framework in Cadabra2**
-A Python-based framework for automating covariant-derivative expansions and managing curved and flat indices in Cadabra2.
-
-⚛️ **Perturbative Methods in Quantum Mechanics**
-Comparative study of Rayleigh–Schrödinger, Brillouin–Wigner, and Dalgarno–Lewis perturbation methods, including their convergence and truncation behavior.
-
-🛰️ **Crop Classification Using Satellite Images**
-Machine-learning classification of agricultural data using Sentinel-2 multispectral satellite observations.
-
-📈 **PredicticModel**
-Exploration of predictive modeling for gold prices using financial data, news sentiment analysis, and LSTM neural networks.
-
-### 🌱 Currently Learning
-
-* **Hamiltonian and constrained formulations of field theories**
-* **Geometric and tetrad formulations of General Relativity**
-* **Symbolic computation and automated tensor calculus**
-* **Physics-Informed Neural Networks (PINNs)**
-* **Machine Learning and Large Language Models (LLMs)**
-
-### 📫 Let's Connect
-
-[![GitHub](https://img.shields.io/badge/GitHub-dassjoss-black?style=flat\&logo=github)](https://github.com/dassjoss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat\&logo=gmail)](mailto:jose.ortizc@udea.edu.co)
+<p align="center">
+  <a href="mailto:jose.ortizc@udea.edu.co"><code>Email</code></a> · 
+  <a href="https://github.com/dassjoss"><code>GitHub</code></a>
+</p>

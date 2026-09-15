@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 320" width="100%" height="100%">
+  <defs>
+    <linearGradient id="mesh-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#818cf8" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#c084fc" stop-opacity="0.1" />
+    </linearGradient>
+    <radialGradient id="singularity-glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.9" />
+      <stop offset="40%" stop-color="#818cf8" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#0d1117" stop-opacity="0" />
+    </radialGradient>
+    <style>
+      .grid-line { fill: none; stroke: url(#mesh-grad); stroke-width: 1; opacity: 0.6; }
+      .horizon { fill: none; stroke: #38bdf8; stroke-width: 1.5; opacity: 0.9; }
+      .label-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 11px; fill: #94a3b8; }
+      .eq-text { font-family: "Latin Modern Math", "Cambria Math", Georgia, serif; font-size: 13px; fill: #38bdf8; font-style: italic; }
+    </style>
+  </defs>
+  <rect width="800" height="320" fill="#0d1117" rx="8" stroke="#1e293b" stroke-width="1" />
+  <circle cx="400" cy="160" r="90" fill="url(#singularity-glow)" />
+  <ellipse cx="400" cy="203.4" rx="25.7" ry="7.7" class="grid-line">
+    <animate attributeName="ry" values="7.7;8.3;7.7" dur="4s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="198.9" rx="51.4" ry="15.4" class="grid-line">
+    <animate attributeName="ry" values="15.4;16.7;15.4" dur="5s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="192.5" rx="77.1" ry="23.1" class="grid-line">
+    <animate attributeName="ry" values="23.1;25.0;23.1" dur="3s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="185.2" rx="102.9" ry="30.9" class="grid-line">
+    <animate attributeName="ry" values="30.9;33.3;30.9" dur="4s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="178.2" rx="128.6" ry="38.6" class="grid-line">
+    <animate attributeName="ry" values="38.6;41.7;38.6" dur="5s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="172.2" rx="154.3" ry="46.3" class="grid-line">
+    <animate attributeName="ry" values="46.3;50.0;46.3" dur="3s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="167.6" rx="180.0" ry="54.0" class="grid-line">
+    <animate attributeName="ry" values="54.0;58.3;54.0" dur="4s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="164.4" rx="205.7" ry="61.7" class="grid-line">
+    <animate attributeName="ry" values="61.7;66.7;61.7" dur="5s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="162.4" rx="231.4" ry="69.4" class="grid-line">
+    <animate attributeName="ry" values="69.4;75.0;69.4" dur="3s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="161.2" rx="257.1" ry="77.1" class="grid-line">
+    <animate attributeName="ry" values="77.1;83.3;77.1" dur="4s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="160.6" rx="282.9" ry="84.9" class="grid-line">
+    <animate attributeName="ry" values="84.9;91.6;84.9" dur="5s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="160.2" rx="308.6" ry="92.6" class="grid-line">
+    <animate attributeName="ry" values="92.6;100.0;92.6" dur="3s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="160.1" rx="334.3" ry="100.3" class="grid-line">
+    <animate attributeName="ry" values="100.3;108.3;100.3" dur="4s" repeatCount="indefinite" />
+  </ellipse>
+  <ellipse cx="400" cy="160.0" rx="360.0" ry="108.0" class="grid-line">
+    <animate attributeName="ry" values="108.0;116.6;108.0" dur="5s" repeatCount="indefinite" />
+  </ellipse>
+  <path d="M 425.7 203.4 L 451.4 198.9 L 477.1 192.5 L 502.9 185.2 L 528.6 178.2 L 554.3 172.2 L 580.0 167.6 L 605.7 164.4 L 631.4 162.4 L 657.1 161.2 L 682.9 160.6 L 708.6 160.2 L 734.3 160.1 L 760.0 160.0" class="grid-line" />
+  <path d="M 424.8 205.4 L 449.7 202.9 L 474.5 198.5 L 499.4 193.2 L 524.2 188.2 L 549.0 184.2 L 573.9 181.6 L 598.7 180.4 L 623.5 180.4 L 648.4 181.2 L 673.2 182.5 L 698.1 184.2 L 722.9 186.1 L 747.7 188.0" class="grid-line" />
+  <path d="M 422.3 207.3 L 444.5 206.6 L 466.8 204.0 L 489.1 200.6 L 511.3 197.5 L 533.6 195.3 L 555.9 194.6 L 578.2 195.3 L 600.4 197.1 L 622.7 199.8 L 645.0 203.0 L 667.2 206.5 L 689.5 210.2 L 711.8 214.0" class="grid-line" />
+  <path d="M 418.2 208.9 L 436.4 209.8 L 454.5 208.8 L 472.7 207.0 L 490.9 205.4 L 509.1 204.9 L 527.3 205.8 L 545.5 208.1 L 563.6 211.5 L 581.8 215.7 L 600.0 220.6 L 618.2 225.7 L 636.4 231.0 L 654.6 236.4" class="grid-line" />
+  <path d="M 412.9 210.1 L 425.7 212.3 L 438.6 212.5 L 451.4 211.9 L 464.3 211.6 L 477.1 212.3 L 490.0 214.4 L 502.9 217.9 L 515.7 222.5 L 528.6 228.0 L 541.4 234.0 L 554.3 240.4 L 567.1 246.9 L 580.0 253.6" class="grid-line" />
+  <path d="M 406.7 210.8 L 413.3 213.8 L 420.0 214.8 L 426.6 215.0 L 433.3 215.4 L 439.9 216.9 L 446.6 219.8 L 453.2 224.0 L 459.9 229.4 L 466.6 235.7 L 473.2 242.5 L 479.9 249.7 L 486.5 257.0 L 493.2 264.4" class="grid-line" />
+  <path d="M 400.0 211.1 L 400.0 214.3 L 400.0 215.6 L 400.0 216.0 L 400.0 216.7 L 400.0 218.5 L 400.0 221.6 L 400.0 226.1 L 400.0 231.8 L 400.0 238.3 L 400.0 245.4 L 400.0 252.8 L 400.0 260.4 L 400.0 268.0" class="grid-line" />
+  <path d="M 393.3 210.8 L 386.7 213.8 L 380.0 214.8 L 373.4 215.0 L 366.7 215.4 L 360.1 216.9 L 353.4 219.8 L 346.8 224.0 L 340.1 229.4 L 333.4 235.7 L 326.8 242.5 L 320.1 249.7 L 313.5 257.0 L 306.8 264.4" class="grid-line" />
+  <path d="M 387.1 210.1 L 374.3 212.3 L 361.4 212.5 L 348.6 211.9 L 335.7 211.6 L 322.9 212.3 L 310.0 214.4 L 297.1 217.9 L 284.3 222.5 L 271.4 228.0 L 258.6 234.0 L 245.7 240.4 L 232.9 246.9 L 220.0 253.6" class="grid-line" />
+  <path d="M 381.8 208.9 L 363.6 209.8 L 345.5 208.8 L 327.3 207.0 L 309.1 205.4 L 290.9 204.9 L 272.7 205.8 L 254.5 208.1 L 236.4 211.5 L 218.2 215.7 L 200.0 220.6 L 181.8 225.7 L 163.6 231.0 L 145.4 236.4" class="grid-line" />
+  <path d="M 377.7 207.3 L 355.5 206.6 L 333.2 204.0 L 310.9 200.6 L 288.7 197.5 L 266.4 195.3 L 244.1 194.6 L 221.8 195.3 L 199.6 197.1 L 177.3 199.8 L 155.0 203.0 L 132.8 206.5 L 110.5 210.2 L 88.2 214.0" class="grid-line" />
+  <path d="M 375.2 205.4 L 350.3 202.9 L 325.5 198.5 L 300.6 193.2 L 275.8 188.2 L 251.0 184.2 L 226.1 181.6 L 201.3 180.4 L 176.5 180.4 L 151.6 181.2 L 126.8 182.5 L 101.9 184.2 L 77.1 186.1 L 52.3 188.0" class="grid-line" />
+  <path d="M 374.3 203.4 L 348.6 198.9 L 322.9 192.5 L 297.1 185.2 L 271.4 178.2 L 245.7 172.2 L 220.0 167.6 L 194.3 164.4 L 168.6 162.4 L 142.9 161.2 L 117.1 160.6 L 91.4 160.2 L 65.7 160.1 L 40.0 160.0" class="grid-line" />
+  <path d="M 375.2 201.4 L 350.3 194.9 L 325.5 186.5 L 300.6 177.2 L 275.8 168.2 L 251.0 160.2 L 226.1 153.6 L 201.3 148.4 L 176.5 144.4 L 151.6 141.2 L 126.8 138.6 L 101.9 136.3 L 77.1 134.1 L 52.3 132.1" class="grid-line" />
+  <path d="M 377.7 199.5 L 355.5 191.2 L 333.2 180.9 L 310.9 169.8 L 288.7 158.9 L 266.4 149.0 L 244.1 140.6 L 221.8 133.6 L 199.6 127.7 L 177.3 122.6 L 155.0 118.1 L 132.8 114.0 L 110.5 110.0 L 88.2 106.0" class="grid-line" />
+  <path d="M 381.8 197.9 L 363.6 188.0 L 345.5 176.1 L 327.3 163.4 L 309.1 150.9 L 290.9 139.5 L 272.7 129.4 L 254.5 120.8 L 236.4 113.3 L 218.2 106.6 L 200.0 100.6 L 181.8 94.8 L 163.6 89.2 L 145.4 83.7" class="grid-line" />
+  <path d="M 387.1 196.7 L 374.3 185.6 L 361.4 172.4 L 348.6 158.5 L 335.7 144.8 L 322.9 132.1 L 310.0 120.8 L 297.1 111.0 L 284.3 102.3 L 271.4 94.4 L 258.6 87.1 L 245.7 80.1 L 232.9 73.2 L 220.0 66.5" class="grid-line" />
+  <path d="M 393.3 195.9 L 386.7 184.0 L 380.0 170.1 L 373.4 155.4 L 366.7 140.9 L 360.1 127.5 L 353.4 115.4 L 346.8 104.8 L 340.1 95.3 L 333.4 86.7 L 326.8 78.6 L 320.1 70.8 L 313.5 63.2 L 306.8 55.7" class="grid-line" />
+  <path d="M 400.0 195.7 L 400.0 183.5 L 400.0 169.3 L 400.0 154.3 L 400.0 139.6 L 400.0 125.9 L 400.0 113.6 L 400.0 102.7 L 400.0 93.0 L 400.0 84.1 L 400.0 75.7 L 400.0 67.7 L 400.0 59.8 L 400.0 52.0" class="grid-line" />
+  <path d="M 406.7 195.9 L 413.3 184.0 L 420.0 170.1 L 426.6 155.4 L 433.3 140.9 L 439.9 127.5 L 446.6 115.4 L 453.2 104.8 L 459.9 95.3 L 466.6 86.7 L 473.2 78.6 L 479.9 70.8 L 486.5 63.2 L 493.2 55.7" class="grid-line" />
+  <path d="M 412.9 196.7 L 425.7 185.6 L 438.6 172.4 L 451.4 158.5 L 464.3 144.8 L 477.1 132.1 L 490.0 120.8 L 502.9 111.0 L 515.7 102.3 L 528.6 94.4 L 541.4 87.1 L 554.3 80.1 L 567.1 73.2 L 580.0 66.5" class="grid-line" />
+  <path d="M 418.2 197.9 L 436.4 188.0 L 454.5 176.1 L 472.7 163.4 L 490.9 150.9 L 509.1 139.5 L 527.3 129.4 L 545.5 120.8 L 563.6 113.3 L 581.8 106.6 L 600.0 100.6 L 618.2 94.8 L 636.4 89.2 L 654.6 83.7" class="grid-line" />
+  <path d="M 422.3 199.5 L 444.5 191.2 L 466.8 180.9 L 489.1 169.8 L 511.3 158.9 L 533.6 149.0 L 555.9 140.6 L 578.2 133.6 L 600.4 127.7 L 622.7 122.6 L 645.0 118.1 L 667.2 114.0 L 689.5 110.0 L 711.8 106.0" class="grid-line" />
+  <path d="M 424.8 201.4 L 449.7 194.9 L 474.5 186.5 L 499.4 177.2 L 524.2 168.2 L 549.0 160.2 L 573.9 153.6 L 598.7 148.4 L 623.5 144.4 L 648.4 141.2 L 673.2 138.6 L 698.1 136.3 L 722.9 134.1 L 747.7 132.1" class="grid-line" />
+  <ellipse cx="400" cy="205.0" rx="22" ry="7" class="horizon" />
+  <text x="25" y="35" class="label-text" font-weight="bold" fill="#f8fafc">SPACETIME METRIC CURVATURE</text>
+  <text x="25" y="55" class="eq-text">ds² = -(1 - 2r_s/r)dt² + (1 - 2r_s/r)⁻¹dr² + r²dΩ²</text>
+  <text x="560" y="300" class="eq-text" text-anchor="end">H = N H_0 + N^i H_i ≈ 0</text>
+  <text x="775" y="300" class="label-text" text-anchor="end" fill="#64748b">DIRAC CONSTRAINED DYNAMICS</text>
+</svg>
