@@ -54,6 +54,18 @@ My primary research interests center on **General Relativity and Quantum Gravity
 
 ---
 
+## 🐍 Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dassjoss/dassjoss/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dassjoss/dassjoss/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake" src="https://raw.githubusercontent.com/dassjoss/dassjoss/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</p>
+
+---
+
 <p align="center">
   <a href="mailto:jose.ortizc@udea.edu.co"><code>Email</code></a> · 
   <a href="https://github.com/dassjoss"><code>GitHub</code></a>
