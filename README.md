@@ -1,32 +1,32 @@
-# ¡Hola! 👋 Soy Jose 🌌
+# Hi! 👋 I'm Jose 🌌
 
-Soy estudiante de **Física en la Universidad de Antioquia**, con formación e intereses principalmente orientados hacia la **física teórica y computacional**.
+I am a **Physics undergraduate at Universidad de Antioquia**, with a background and interests primarily focused on **theoretical and computational physics**.
 
-Mi principal interés se encuentra en la **Relatividad General y la gravedad cuántica**, particularmente en la formulación hamiltoniana de la gravedad, sistemas con restricciones, simetrías gauge y métodos de cuantización. También me interesa comprender cómo diferentes formulaciones matemáticas de una teoría física pueden describir los mismos grados de libertad y estructuras físicas.
+My main interests lie in **General Relativity and quantum gravity**, particularly in the Hamiltonian formulation of gravity, constrained systems, gauge symmetries, and quantization methods. I am especially interested in understanding how different mathematical formulations of a physical theory can describe the same physical degrees of freedom and underlying structures.
 
-Una parte importante de mi trabajo consiste en utilizar **herramientas computacionales para estudiar problemas teóricos y matemáticos** que serían difíciles de abordar exclusivamente de forma analítica. Trabajo tanto con cálculo numérico como con **álgebra simbólica**, especialmente para automatizar cálculos relacionados con geometría diferencial, cálculo tensorial y Relatividad General.
+An important part of my work involves using **computational tools to study theoretical and mathematical problems** that can be difficult to approach analytically alone. I work with both numerical methods and **symbolic computation**, particularly to automate calculations involving differential geometry, tensor calculus, and General Relativity.
 
-Algo que me caracteriza es que **no solo me interesa obtener un resultado computacional, sino comprender y documentar la física y las matemáticas detrás de él**. Por eso, muchos de mis proyectos incluyen desarrollos teóricos, derivaciones matemáticas, análisis de métodos y comparación con resultados analíticos o esperados.
+Something that characterizes my approach is that **I am not only interested in obtaining a computational result, but also in understanding and documenting the physics and mathematics behind it**. For this reason, many of my projects include theoretical developments, mathematical derivations, methodological analysis, and comparisons with analytical or expected results.
 
-### 🔭 ¿En qué trabajo?
+### 🔭 What do I work on?
 
-Mis proyectos abarcan principalmente tres áreas:
+My projects primarily span four areas:
 
-* 🌌 **Física Teórica — Relatividad General y Gravedad:** Estudio de formulaciones hamiltonianas de la Relatividad General, incluyendo las formulaciones métrica y tetrádica/Palatini, utilizando el formalismo de Dirac para sistemas con restricciones. También trabajo con geometría diferencial, cálculo tensorial, simetrías gauge y grados de libertad físicos.
+* 🌌 **Theoretical Physics — General Relativity and Gravity:** Study of Hamiltonian formulations of General Relativity, including metric and tetrad/Palatini formulations, using the Dirac formalism for constrained systems. I also work with differential geometry, tensor calculus, gauge symmetries, and physical degrees of freedom.
 
-* ⚛️ **Mecánica Cuántica y Física Matemática:** Estudio y comparación de métodos perturbativos, incluyendo Rayleigh–Schrödinger, Brillouin–Wigner y Dalgarno–Lewis, además de métodos numéricos aplicados a sistemas cuánticos y ecuaciones diferenciales no lineales como la ecuación de Sine-Gordon.
+* ⚛️ **Quantum Mechanics and Mathematical Physics:** Study and comparison of perturbative methods, including Rayleigh–Schrödinger, Brillouin–Wigner, and Dalgarno–Lewis approaches, as well as numerical methods applied to quantum systems and nonlinear differential equations such as the Sine-Gordon equation.
 
-* 💻 **Física Computacional y Cálculo Simbólico:** Desarrollo de herramientas para automatizar cálculos matemáticos y físicos utilizando **Mathematica, xAct, Cadabra2, Python y C++**. Actualmente desarrollo herramientas para cálculo tensorial, geometría diferencial y Relatividad General.
+* 💻 **Computational Physics and Symbolic Computation:** Development of tools for automating mathematical and physical calculations using **Mathematica, xAct, Cadabra2, Python, and C++**. My current work includes tools for tensor calculus, differential geometry, and General Relativity.
 
-* 🤖 **Machine Learning y Data Science:** También he trabajado con modelos de machine learning aplicados a problemas científicos, incluyendo clasificación de cultivos mediante imágenes satelitales, modelos predictivos y detección de objetos. Me interesa especialmente la intersección entre **física y aprendizaje automático**.
+* 🤖 **Machine Learning and Data Science:** Experience applying machine learning methods to scientific problems, including crop classification using satellite imagery, predictive modeling, and object detection. I am particularly interested in the intersection between **physics and machine learning**.
 
-### 🛠️ Herramientas
+### 🛠️ Tools & Technologies
 
-**Física y cálculo simbólico**
+**Physics & Symbolic Computation**
 
 `Mathematica` · `xAct` · `Cadabra2` · `SageMath`
 
-**Computación científica**
+**Scientific Computing**
 
 `Python` · `NumPy` · `SciPy` · `Pandas` · `Matplotlib` · `Jupyter` · `C++` · `C` · `CUDA`
 
@@ -34,31 +34,31 @@ Mis proyectos abarcan principalmente tres áreas:
 
 `PyTorch` · `TensorFlow` · `Scikit-learn`
 
-**Herramientas de desarrollo**
+**Development & Systems**
 
 `Git` · `GitHub` · `Linux` · `Bash` · `LaTeX`
 
-### 📚 Algunos de mis proyectos
+### 📚 Selected Projects
 
 🌌 **Hamiltonian Formulations of General Relativity**
-Comparative study of the Hamiltonian structure of General Relativity in metric and tetrad/Palatini formulations, with emphasis on constraints, gauge symmetries and physical degrees of freedom.
+Comparative study of the Hamiltonian structure of General Relativity in metric and tetrad/Palatini formulations, with emphasis on constraints, gauge symmetries, and physical degrees of freedom.
 
 📐 **TensorToolkit**
-A modular Wolfram Language toolkit for symbolic tensor calculus, differential geometry and General Relativity.
+A modular Wolfram Language toolkit for symbolic tensor calculus, differential geometry, and General Relativity.
 
 ∇ **Covariant Derivative Expansion Framework in Cadabra2**
 A Python-based framework for automating covariant-derivative expansions and managing curved and flat indices in Cadabra2.
 
 ⚛️ **Perturbative Methods in Quantum Mechanics**
-Comparative study of Rayleigh–Schrödinger, Brillouin–Wigner and Dalgarno–Lewis perturbation methods, including their convergence and truncation behavior.
+Comparative study of Rayleigh–Schrödinger, Brillouin–Wigner, and Dalgarno–Lewis perturbation methods, including their convergence and truncation behavior.
 
 🛰️ **Crop Classification Using Satellite Images**
 Machine-learning classification of agricultural data using Sentinel-2 multispectral satellite observations.
 
 📈 **PredicticModel**
-Exploration of predictive modeling for gold prices using financial data, news sentiment analysis and LSTM neural networks.
+Exploration of predictive modeling for gold prices using financial data, news sentiment analysis, and LSTM neural networks.
 
-### 🌱 Currently learning
+### 🌱 Currently Learning
 
 * **Hamiltonian and constrained formulations of field theories**
 * **Geometric and tetrad formulations of General Relativity**
@@ -66,14 +66,8 @@ Exploration of predictive modeling for gold prices using financial data, news se
 * **Physics-Informed Neural Networks (PINNs)**
 * **Machine Learning and Large Language Models (LLMs)**
 
-### 📫 Let's connect
+### 📫 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-dassjoss-black?style=flat\&logo=github)](https://github.com/dassjoss)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat\&logo=linkedin)](https://linkedin.com/in/tu-usuario)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat\&logo=gmail)](mailto:jose.ortizc@udea.edu.co)
-
-### 📫 ¡Conectemos!.
-
-[![GitHub](https://img.shields.io/badge/GitHub-dassjoss-black?style=flat&logo=github)](https://github.com/dassjoss)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-[Tu_Usuario]-blue?style=flat&logo=linkedin)](https://linkedin.com/in/tu-usuario)
-[![Email](https://img.shields.io/badge/Email-Contáctame-red?style=flat&logo=gmail)](mailto:dasssjosss@gmail.com)
