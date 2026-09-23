@@ -40,16 +40,16 @@ My primary research interests center on **General Relativity and Quantum Gravity
 
 ## 📚 Selected Research Projects
 
-- **Hamiltonian Formulations of General Relativity**  
+- **[Hamiltonian Formulations of General Relativity](https://github.com/dassjoss/Hamiltonian-Formulations-of-General-Relativity)**  
   Comparative analysis of constraint structures, gauge algebras, and physical degrees of freedom in metric and tetrad formulations.
 
-- **TensorToolkit**  
+- **[TensorToolkit](https://github.com/dassjoss/ToolkitMathematica)**  
   Modular Wolfram Language package for symbolic tensor algebra, curvature tensors, and differential forms.
 
-- **Covariant Derivative Expansion Framework — Cadabra2**  
+- **[Covariant Derivative Expansion Framework — Cadabra2](https://github.com/dassjoss/Cadabra_Modules)**  
   Python-based framework for index manipulation and covariant expansions in spacetime geometry.
 
-- **Perturbative Quantum Mechanics**  
+- **[Perturbative Quantum Mechanics](https://github.com/dassjoss/Analysis_on_Perturbative_Methods_in_Quantum_Mechanics)**  
   Analysis of convergence and truncation behavior in Rayleigh–Schrödinger and Dalgarno–Lewis perturbative expansions.
 
 ---
