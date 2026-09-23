@@ -11,7 +11,7 @@
 
 ## 🔬 About Me
 
-I am a **Physics undergraduate at Universidad de Antioquia**, focused on theoretical and computational physics.
+I am a **Physics undergraduate at [Universidad de Antioquia](https://www.udea.edu.co/wps/portal/udea/web/inicio)**, focused on theoretical and computational physics.
 
 My primary research interests center on **General Relativity and Quantum Gravity**, specifically:
 
