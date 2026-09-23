@@ -1,8 +1,7 @@
 # JOSE 🌌
 
 <p align="center">
-  <b>Physics × Computation</b><br>
-  <i>General Relativity · Quantum Gravity · Constrained Dynamics · Symbolic Computing</i>
+  <img src="assets/animated-tagline.svg" alt="Physics & Computation animated tagline" width="100%">
 </p>
 
 <p align="center">
