@@ -35,9 +35,9 @@ My primary research interests center on **General Relativity and Quantum Gravity
 
 ### 💻 Computational Physics & Symbolic Computing
 
-- **Symbolic Computing:** `Mathematica`, `xAct`, `Cadabra2`, `SageMath`
-- **Scientific Computing:** `Python` (NumPy, SciPy, PyTorch), `C++`, `CUDA`
-- **Scientific Tools:** `Git`, `Linux`, `LaTeX`
+- **Symbolic Computing:** <img src="https://cdn.simpleicons.org/wolframmathematica/DD1100" width="16" height="16" alt="Mathematica" valign="middle"> `Mathematica`, `xAct`, `Cadabra2`, <img src="https://cdn.simpleicons.org/sagemath/336699" width="16" height="16" alt="SageMath" valign="middle"> `SageMath`
+- **Scientific Computing:** <img src="https://cdn.simpleicons.org/python/3776AB" width="16" height="16" alt="Python" valign="middle"> `Python` (<img src="https://cdn.simpleicons.org/numpy/013243" width="16" height="16" alt="NumPy" valign="middle"> NumPy, <img src="https://cdn.simpleicons.org/scipy/8CAAE6" width="16" height="16" alt="SciPy" valign="middle"> SciPy, <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="16" height="16" alt="PyTorch" valign="middle"> PyTorch), <img src="https://cdn.simpleicons.org/cplusplus/00599C" width="16" height="16" alt="C++" valign="middle"> `C++`, `CUDA`
+- **Scientific Tools:** <img src="https://cdn.simpleicons.org/git/F05032" width="16" height="16" alt="Git" valign="middle"> `Git`, <img src="https://cdn.simpleicons.org/linux/FCC624" width="16" height="16" alt="Linux" valign="middle"> `Linux`, <img src="https://cdn.simpleicons.org/latex/008080" width="16" height="16" alt="LaTeX" valign="middle"> `LaTeX`
 
 ---
 
