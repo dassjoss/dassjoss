@@ -1,7 +1,11 @@
 # JOSE 🌌
 
 <p align="center">
-  <img src="assets/animated-tagline.svg" alt="Physics & Computation animated tagline" width="100%">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=F0F6FC&background=00000000&center=true&vCenter=true&width=600&height=40&lines=Physics+%C3%97+Computation;General+Relativity;Quantum+Gravity;Constrained+Dynamics;Symbolic+Computing">
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=24292F&background=00000000&center=true&vCenter=true&width=600&height=40&lines=Physics+%C3%97+Computation;General+Relativity;Quantum+Gravity;Constrained+Dynamics;Symbolic+Computing">
+    <img alt="Physics & Computation typing tagline" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&duration=3000&pause=1000&color=24292F&background=00000000&center=true&vCenter=true&width=600&height=40&lines=Physics+%C3%97+Computation;General+Relativity;Quantum+Gravity;Constrained+Dynamics;Symbolic+Computing">
+  </picture>
 </p>
 
 <p align="center">
